@@ -6,6 +6,8 @@ set -e
 
 cd "$(dirname $0)"/..
 
+git submodule update --init --recursive
+
 # Run Homebrew through the Brewfile
 echo "› brew bundle"
 brew bundle
