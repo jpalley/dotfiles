@@ -28,6 +28,7 @@ brew 'wget'
 brew 'youtube-dl'
 brew 'sqlite'
 brew 'macvim', args: ['custom-icons', 'override-system-vim', 'with-lua',  'with-luajit']
+brew 'carthage'
 
 cask '1password'
 cask 'atom'
@@ -42,3 +43,5 @@ cask 'anaconda'
 cask 'iterm2'
 cask 'arduino'
 cask 'heroku-toolbelt'
+cask 'r'
+cask 'skype'
