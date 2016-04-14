@@ -28,6 +28,8 @@ do
   source $file
 done
 
+#Add AWS
+source /usr/local/share/zsh/site-functions/_aws
 # initialize autocomplete here, otherwise functions won't be loaded
 autoload -U compinit
 compinit
