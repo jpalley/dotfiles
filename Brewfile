@@ -50,4 +50,5 @@ cask 'heroku-toolbelt'
 cask 'r'
 cask 'skype'
 cask 'microsoft-office'
+cask 'fantastical'
 
